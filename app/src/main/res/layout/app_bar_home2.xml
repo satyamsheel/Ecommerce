@@ -25,6 +25,7 @@
         android:layout_width="91dp"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|end"
-        app:srcCompat="@drawable/nav_cart" />
+        android:layout_margin="16dp"
+    app:srcCompat="@drawable/nav_cart" />
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
